@@ -1,1 +1,0 @@
-Creador Carlos Prieto
