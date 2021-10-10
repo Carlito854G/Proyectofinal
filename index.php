@@ -1,15 +1,15 @@
 <?php 
 /*
 | -----------------------------------------------------
-| PRODUCT NAME: 	Modern POS - Point of Sale with Stock Management System
+| PRODUCT NAME: 	
 | -----------------------------------------------------
-| AUTHOR:     ITSOLUTION24.COM
+| AUTHOR:    
 | -----------------------------------------------------
-| EMAIL:      info@itsolution24.com
+|  
 | -----------------------------------------------------
-| COPYRIGHT:    RESERVED BY ITSOLUTION24.COM
+| COPYRIGHT:    RESERVED BY 
 | -----------------------------------------------------
-| WEBSITE:      http://itsolution24.com
+| 
 | -----------------------------------------------------
 */
 include("_init.php");
